@@ -13,5 +13,6 @@ optimized algorithms for linear regression.
 
 
 Student: Artiom Pujleacov
+
 Group: 315CB
 ```
